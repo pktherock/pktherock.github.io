@@ -1,1 +1,1 @@
-This is just an Portfolio website repository
+This is just a portfolio repo
